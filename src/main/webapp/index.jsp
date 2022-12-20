@@ -3,7 +3,7 @@
 <title>Hello World!</title>
 </head>
 <body>
-	<h1>Hello and Welcome to Lidor's World!</h1>
+	<h1>Hello and Welcome to Andrey's World!</h1>
 	<h2>DEVOPS-ACADEMY - DEVOPS COURSE</h2>
 	<p>
 		It is now  
